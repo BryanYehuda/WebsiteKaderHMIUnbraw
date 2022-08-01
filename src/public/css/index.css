@@ -3,8 +3,6 @@
 }
 
 body {
-    margin: 0;
-    padding: 0;
     overflow-x: hidden;
     background-image: url("../images/background/background.png");
     background-repeat: repeat-y space;
@@ -102,4 +100,22 @@ hr {
     font-weight: 300;
     font-size: 20px;
     text-align: justify;
+}
+
+
+/* Rundown */
+
+#rundown {
+    margin-top: 100px;
+}
+
+#rundown .title {
+    color: #000000;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+#rundown img {
+    width: 100%;
 }
