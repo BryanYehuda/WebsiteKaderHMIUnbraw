@@ -15,7 +15,8 @@ body {
 /* Hero */
 
 #hero img {
-    width: 100%;
+    width: 105%;
+    max-width: 105% !important;
 }
 
 #hero h2 {
