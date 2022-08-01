@@ -119,3 +119,21 @@ hr {
 #rundown img {
     width: 100%;
 }
+
+
+/* Estimasi */
+
+#estimasi {
+    margin-top: 100px;
+}
+
+#estimasi .title {
+    color: #000000;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+#estimasi img {
+    width: 100%;
+}
