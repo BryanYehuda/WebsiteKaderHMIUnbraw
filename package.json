@@ -1,0 +1,22 @@
+{
+  "name": "websitekaderhmiunbraw",
+  "version": "1.0.0",
+  "description": "This website is created for HMI Universitas Brawijaya to help them propose their Intermediate Training Proposal on the web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanYehuda/WebsiteKaderHMIUnbraw.git"
+  },
+  "author": "Bryan Yehuda Mannuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryanYehuda/WebsiteKaderHMIUnbraw/issues"
+  },
+  "homepage": "https://github.com/BryanYehuda/WebsiteKaderHMIUnbraw#readme",
+  "dependencies": {
+    "lazysizes": "^5.3.2"
+  }
+}
