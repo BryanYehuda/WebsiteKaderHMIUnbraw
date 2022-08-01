@@ -40,3 +40,31 @@ hr {
     width: 50%;
     border-top: 1px solid rgb(4, 4, 4);
 }
+
+
+/* Dasar */
+
+#dasar {
+    margin-top: 100px;
+}
+
+#dasar .lead {
+    color: #000000;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#dasar .body {
+    color: #000000;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#dasar li {
+    color: #000000;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}
