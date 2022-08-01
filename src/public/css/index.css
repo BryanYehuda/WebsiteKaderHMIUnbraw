@@ -68,3 +68,38 @@ hr {
     font-size: 20px;
     text-align: justify;
 }
+
+
+/* Susunan */
+
+#susunan {
+    margin-top: 100px;
+}
+
+#susunan .title {
+    color: #000000;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+#susunan .lead {
+    color: #000000;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#susunan .body {
+    color: #000000;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#susunan li {
+    color: #000000;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}
